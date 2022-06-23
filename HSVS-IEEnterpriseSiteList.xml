@@ -1,0 +1,19 @@
+<site-list version="4">
+  <created-by>
+    <tool>EMIESiteListManager</tool>
+    <version>12.0.0.0</version>
+    <date-created>06/23/2022 14:19:52</date-created>
+  </created-by>
+  <site url="nimrsweb.omh.ny.gov">
+    <compat-mode>IE5</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="mhprovider.omh.ny.gov/cairs3">
+    <compat-mode>IE5</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="mhpd.omh.ny.gov">
+    <compat-mode>IE5</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+</site-list>

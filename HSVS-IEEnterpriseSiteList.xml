@@ -23,6 +23,10 @@
   <site url="https://acs-ra.ra.nyc.gov/lts/attorney/,DanaInfo=cprodapp8.acsad.nycnet,SSL+agencyHomepage.jsp">
     <compat-mode>IE5</compat-mode>
     <open-in>IE11</open-in>
+  </site>
+  <site url="https://acs-ra.ra.nyc.gov/lts/attorney/,DanaInfo=cprodapp8.acsad.nycnet,SSL+agencyWorkerHomepage.jsp">
+    <compat-mode>IE5</compat-mode>
+    <open-in>IE11</open-in>
   </site>  
   <site url="https://cprodapp8.acsad.nycnet/lts/">
     <compat-mode>IE5</compat-mode>

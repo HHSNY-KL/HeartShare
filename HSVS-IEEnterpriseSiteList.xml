@@ -36,4 +36,8 @@
     <compat-mode>IE5</compat-mode>
   <open-in>IE11</open-in>
   </site>
+  <site url="nyc.gov">
+    <compat-mode>IE5</compat-mode>
+  <open-in>IE11</open-in>
+  </site>  
 </site-list>

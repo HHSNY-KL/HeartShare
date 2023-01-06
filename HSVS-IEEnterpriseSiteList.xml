@@ -36,6 +36,18 @@
     <compat-mode>IE11</compat-mode>
   <open-in>IE11</open-in>
   </site>
+  <site url="http://dprodapp6.acsad.nycnet:9998/*">
+    <compat-mode>IE11</compat-mode>
+  <open-in>IE11</open-in>
+  </site>
+  <site url="https://acs-ra.ra.nyc.gov*">
+    <compat-mode>IE11</compat-mode>
+  <open-in>IE11</open-in>
+  </site>
+  <site url="https://cprodapp8.acsad.nycnet/*">
+    <compat-mode>IE11</compat-mode>
+  <open-in>IE11</open-in>
+  </site>
   <site url="nyc.gov">
     <compat-mode>IE11</compat-mode>
   <open-in>IE11</open-in>

@@ -5,51 +5,51 @@
     <date-created>06/23/2022 14:19:52</date-created>
   </created-by>
   <site url="nimrsweb.omh.ny.gov/">
-    <compat-mode>IE4</compat-mode>
-    <open-in>IE4</open-in>
+    <compat-mode>IE7</compat-mode>
+    <open-in>IE7</open-in>
   </site>
   <site url="mhprovider.omh.ny.gov/cairs3">
-    <compat-mode>IE4</compat-mode>
-    <open-in>IE4</open-in>
+    <compat-mode>IE7</compat-mode>
+    <open-in>IE7</open-in>
   </site>
   <site url="mhpd.omh.ny.gov/">
-    <compat-mode>IE4</compat-mode>
-    <open-in>IE4</open-in>
+    <compat-mode>IE7</compat-mode>
+    <open-in>IE7</open-in>
   </site>
   <site url="mhprovider.omh.ny.gov/">
-    <compat-mode>IE4</compat-mode>
-    <open-in>IE4</open-in>
+    <compat-mode>IE7</compat-mode>
+    <open-in>IE7</open-in>
   </site>
   <site url="https://acs-ra.ra.nyc.gov/lts/attorney/,DanaInfo=cprodapp8.acsad.nycnet,SSL+agencyHomepage.jsp">
-    <compat-mode>IE4</compat-mode>
-    <open-in>IE4</open-in>
+    <compat-mode>IE7</compat-mode>
+    <open-in>IE7</open-in>
   </site>
   <site url="https://acs-ra.ra.nyc.gov/lts/attorney/,DanaInfo=cprodapp8.acsad.nycnet,SSL+agencyWorkerHomepage.jsp">
-    <compat-mode>IE4</compat-mode>
-    <open-in>IE4</open-in>
+    <compat-mode>IE7</compat-mode>
+    <open-in>IE7</open-in>
   </site>  
   <site url="https://cprodapp8.acsad.nycnet/lts/">
-    <compat-mode>IE4</compat-mode>
-  <open-in>IE4</open-in>
+    <compat-mode>IE7</compat-mode>
+  <open-in>IE7</open-in>
   </site>
   <site url="http://dprodapp6.acsad.nycnet:9998/lts/index.jsp">
-    <compat-mode>IE4</compat-mode>
-  <open-in>IE4</open-in>
+    <compat-mode>IE7</compat-mode>
+  <open-in>IE7</open-in>
   </site>
   <site url="http://dprodapp6.acsad.nycnet:9998/*">
-    <compat-mode>IE4</compat-mode>
-  <open-in>IE4</open-in>
+    <compat-mode>IE7</compat-mode>
+  <open-in>IE7</open-in>
   </site>
   <site url="https://acs-ra.ra.nyc.gov*">
-    <compat-mode>IE4</compat-mode>
-  <open-in>IE4</open-in>
+    <compat-mode>IE7</compat-mode>
+  <open-in>IE7</open-in>
   </site>
   <site url="https://cprodapp8.acsad.nycnet/*">
-    <compat-mode>IE4</compat-mode>
-  <open-in>IE4</open-in>
+    <compat-mode>IE7</compat-mode>
+  <open-in>IE7</open-in>
   </site>
   <site url="nyc.gov">
-    <compat-mode>IE4</compat-mode>
-  <open-in>IE4</open-in>
+    <compat-mode>IE7</compat-mode>
+  <open-in>IE7</open-in>
   </site>  
 </site-list>
